@@ -45,7 +45,12 @@ All data is stored in `.csv` files in the `data/` directory, named based on asse
 - ✅ An **organized and well-documented code** that can be reproduced.
 - ✅ A **concise pitch** presenting your solution to the judging panel as **investment stakeholders**.
 - ✅ *(Optional)* **Performance analysis** comparing your solution with traditional methods.
-- ✅ Before the 4-hour deadline, submit a **zip folder** containing your **Google Colab notebook** (with all cells run and outputs visible). Email it to **eyaichallenge@pt.ey.com** with the subject "Stock Agent – GroupName", including member names and relevant external tools (e.g., visualizations).
+
+<h2 align="center"> ⚠️ **Important Submission Requirement** ⚠️ </h2>
+<h3> ✅ **Before the 4-hour deadline, submit a zip folder with your Google Colab notebook** (with all cells run and showing outputs). </h3>
+
+> - **Email it to** [eyaichallenge@pt.ey.com](mailto:eyaichallenge@pt.ey.com) **with the subject** Law Document Mapping – GroupName
+> - **Include member names and any external tools (e.g., visualizations) you used.**
 
 ---
 
