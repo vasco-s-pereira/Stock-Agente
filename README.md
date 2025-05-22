@@ -19,7 +19,7 @@ The dataset includes **historical financial data** from 11 different assets:
 - **Stocks:** AMZN, AAPL, GOOGL, MSFT, UDMY, NXE, SPY, CDR.WA, EH  
 - **Cryptocurrencies:** BTC-USD, ETH-USD  
 
-All data is stored in `.csv` files in the `data/` directory, named based on asset and frequency (e.g., `AMZ_hourly.csv`, `AMZ_daily.csv`).  
+All data is stored in `.csv` files in the `data/` directory, named based on asset and frequency (e.g., `AMZ_hourly.csv`, `AMZ_daily.csv`), with the usage of the accelerator notebook.  
 
 ### Data Columns:
 - **Datetime / Date:** Timestamp of the market data entry (hourly or daily).
@@ -49,7 +49,7 @@ All data is stored in `.csv` files in the `data/` directory, named based on asse
 <h2 align="center"> ⚠️ **Important Submission Requirement** ⚠️ </h2>
 <h3> ✅ **Before the 4-hour deadline, submit a zip folder with your Google Colab notebook** (with all cells run and showing outputs). </h3>
 
-> - **Email it to** [eyaichallenge@pt.ey.com](mailto:eyaichallenge@pt.ey.com) **with the subject** Law Document Mapping – GroupName
+> - **Email it to** [eyaichallenge@pt.ey.com](mailto:eyaichallenge@pt.ey.com) **with the subject** Stock Agent – GroupName
 > - **Include member names and any external tools (e.g., visualizations) you used.**
 
 ---
@@ -67,49 +67,70 @@ All data is stored in `.csv` files in the `data/` directory, named based on asse
 
 ## 🛠 Tech & Tools
 
-Your solution must be developed in **Google Colab using Python**, but you're free to choose the rest:
+🚨 **Mandatory Requirement**:  
+You **must** develop your solution in **Google Colab using Python**.
 
-- **Software Platform:** Google Colab, Jupyter, VSCode, PyCharm, etc.  
-  > ⚠️ *Note*: In **VS Code**, ensure to click **"Open"** when launching the notebook to avoid content visibility issues.
-  
-- **Programming Languages:** Python (recommended), R, JavaScript, SQL, etc.
-- **Libraries & Packages:** Pandas, Scikit-learn, LangChain, etc.
-- **Visualization Tools:** Python-based (Matplotlib, Seaborn), Power BI, Tableau, etc.
-- **AI Assistants:** ChatGPT, GitHub Copilot, Gemini, or any other.
+Beyond that, you are **completely free** to choose your own:
 
-💡 *No restrictions—use the tools that help you move faster and think smarter.*
+- **📚 Libraries and packages**  
+  Use any tools you need — e.g., `Pandas`, `Scikit-learn`, `LangChain`, etc.
+
+- **📈 Visualization tools**  
+  Python-based: `Matplotlib`, `Seaborn`  
+  BI tools: `Power BI`, `Tableau`
+
+- **🤖 AI assistants**  
+  Feel free to consult:  
+  `ChatGPT`, `GitHub Copilot`, `Gemini`, or any other
 
 ---
 
 ## ⏱ Time Management & Rules
 
-- **4 Hours Total**: Complete your challenge within the time limit—no extensions.
-- **5-Minute Pitch**: Present your solution to the panel, simulating a **client-facing consulting pitch**.
+- ⏳ You have **4 hours total** to complete your challenge  
+  🔒 **No extensions** will be allowed
 
-### Each group gets:
-- `1` **Technical Support Session** (up to 5 minutes)
-- `1` **Business Support Session** (up to 5 minutes)
+- 🗣 After the working session, deliver a **5-minute presentation**  
+  🎯 Simulate a **client-facing consulting pitch**
 
-🔑 *Assistants will guide your thinking, not provide direct solutions.*
+- 👥 Each group is allowed:
+  - `1` **technical support** session (up to 5 minutes)
+  - `1` **business-related support** session (up to 5 minutes)
 
----
-
-## 🧑‍💼 Strategy & Workflow Tips
-
-1. **Assign Roles Early**: Designate a data expert, business analyst, and presenter.
-2. **Work in Parallel**: Split tasks efficiently to avoid bottlenecks.
-3. **Start Preparing the Presentation Early**: Don't wait until the last 10 minutes.
-4. **Be Realistic**: Deliver a **focused, well-explained solution** rather than something rushed or overly complex.
-
-💡 **Pro Tip**: Your evaluation will be based on both your **technical work** and your **ability to communicate** as a team.
+> 🧠 Assistants will guide your thinking, not provide direct solutions
 
 ---
 
-## 💭 Final Thought
+## 📋 Strategy & Workflow Tips
 
-This challenge bridges **AI technology** and **financial strategy**. Success will come from demonstrating not just technical skill but an ability to translate that technology into **real business advantage**.
+This is a **consulting-style challenge** with limited time. Keep these tips in mind:
 
-You’re developing more than just a tool—you’re creating a **strategic asset** that could reshape investment decision-making.
+1. 👥 **Assign roles early**  
+   (e.g., a data person, a business analyst, and a presenter)
+
+2. 🔁 **Work in parallel**  
+   Don’t wait on each other. Split tasks and collaborate strategically.
+
+3. 🧑‍🏫 **Keep the presentation in mind**  
+   Start preparing early; don’t leave it to the last 10 minutes.
+
+4. ✅ **Be realistic**  
+   It’s better to deliver a **focused, clear, and well-explained solution** than a rushed or overly complex one.
+
+> 💡 You are not being judged only on technical accuracy —  
+> but also on how you **think**, **structure**, **work as a team**, and **communicate** your approach.
+
+---
+
+## 💬 Final Thought
+
+This challenge invites you to bridge the worlds of **cutting-edge AI technology** and **sophisticated financial strategy**.
+
+🏆 The most successful teams will demonstrate not just technical prowess,  
+but the ability to **translate that technology into meaningful business advantage**.
+
+> You are developing more than just a tool –  
+> you are creating a **strategic asset** that could fundamentally enhance how investment decisions are made.
 
 ---
 
