@@ -47,10 +47,17 @@ All data is stored in `.csv` files in the `data/` directory, named based on asse
 - ✅ *(Optional)* **Performance analysis** comparing your solution with traditional methods.
 
 <h2 align="center"> ⚠️ **Important Submission Requirement** ⚠️ </h2>
-<h3> ✅ **Before the 4-hour deadline, submit a zip folder with your Google Colab notebook** (with all cells run and showing outputs). </h3>
+<h3> ✅ **Before the 4-hour deadline</h3>
 
-> - **Email it to** [eyaichallenge@pt.ey.com](mailto:eyaichallenge@pt.ey.com) **with the subject** Stock Agent – GroupName
-> - **Include member names and any external tools (e.g., visualizations) you used.**
+Submit a zip folder with:
+- The **Google Colab notebook** (with all cells run & outputs shown).
+- Screenshots of all **external tools/visualizations** used.
+
+Submit via email to: [eyaichallenge@pt.ey.com](mailto:eyaichallenge@pt.ey.com)
+
+Subject: `Stock Agent – GroupName`
+
+Include group member names in the email.
 
 ---
 
