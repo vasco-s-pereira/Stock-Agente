@@ -65,7 +65,7 @@ All data is stored in `.csv` files in the `data/` directory, named based on asse
 
 ---
 
-## 🛠 Tech & Tools – Full Freedom
+## 🛠 Tech & Tools
 
 Your solution must be developed in **Google Colab using Python**, but you're free to choose the rest:
 
